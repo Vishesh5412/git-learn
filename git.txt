@@ -1,1 +1,4 @@
-Hi, i am learing git on my-branch.
+Hello guys, it's 10: 40pm and i am doing git .
+
+
+
