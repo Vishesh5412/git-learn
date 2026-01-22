@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
 
-    cout << "My curr" << endl;
+    cout << "My prev" << endl;
     return 0;
 }
